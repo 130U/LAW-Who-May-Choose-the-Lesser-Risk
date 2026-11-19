@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Who May Choose the Lesser Risk: Solar Geoengineering and the Legal Duties of Comparison and Continuity"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "Who may choose among climate risks for people who cannot escape the resulting climate, and how can that choice be withdrawn without catastrophe? The Article, its PDF, an argument map, the proposal and the sources."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/LAW-Who-May-Choose-the-Lesser-Risk"
+url: "https://www.theodoreoy.com/experience/who-may-choose-the-lesser-risk/"
+keywords:
+  - "solar geoengineering"
+  - "stratospheric aerosol injection"
+  - "climate governance"
+  - "international environmental law"
+  - "risk-risk analysis"
+  - "termination shock"
+preferred-citation:
+  type: unpublished
+  title: "Who May Choose the Lesser Risk: Solar Geoengineering and the Legal Duties of Comparison and Continuity"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2024
+  url: "https://www.theodoreoy.com/experience/who-may-choose-the-lesser-risk/"
+  institution:
+    name: "Duke Law School"
+  notes: "Manuscript, Duke Law School, December 2024; revised November 2026."
